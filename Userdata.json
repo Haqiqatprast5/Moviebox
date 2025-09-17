@@ -39,12 +39,12 @@
         "device_id": "331ec5923261135e",
         "key": "keyhassan51214",
         "expirydate": "31-12-2025",
-        "Allowoffline": true
+        "Allowoffline": false
     },
     {
         "device_id": "7fa9fae46f53f62b",
         "key": "keywaddahaji123",
-        "expirydate": "15-06-2025",
+        "expirydate": "31-12-2025",
         "Allowoffline": true
     },
 ]
