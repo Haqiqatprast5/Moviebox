@@ -53,4 +53,10 @@
         "expirydate": "15-12-2025",
         "Allowoffline": true
     },
+    {
+        "device_id": "420679b7e7634db2",
+        "key": "keymudassir51214",
+        "expirydate": "23-08-2025",
+        "Allowoffline": false
+    },
 ]
