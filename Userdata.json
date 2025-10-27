@@ -83,5 +83,11 @@
         "expirydate": "31-12-2025",
         "Allowoffline": false
     },
+        {
+        "device_id": "0b3380c48d1f63cf",
+        "key": "keyzeeshan51214",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    },
 ]
 
