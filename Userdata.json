@@ -101,5 +101,11 @@
         "expirydate": "31-03-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "0d7e1618c673c310",
+        "key": "keyaqib51214",
+        "expirydate": "11-02-2026",
+        "Allowoffline": true
+    },
 ]
 
