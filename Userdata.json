@@ -125,5 +125,11 @@
         "expirydate": "31-07-2026",
         "Allowoffline": false
     },
+    {
+        "device_id": "b5dc921522a5b0b7",
+        "key": "keymubeen51214",
+        "expirydate": "30-08-2026",
+        "Allowoffline": false
+    },
 ]
 
