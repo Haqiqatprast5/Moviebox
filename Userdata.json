@@ -50,7 +50,7 @@
         {
         "device_id": "b5dc921522a5b0b7",
         "key": "keykhan51214",
-        "expirydate": "31-3-2026",
+        "expirydate": "31-8-2026",
         "Allowoffline": true
     },
     {
@@ -123,12 +123,6 @@
         "device_id": "412ed0466df6938c",
         "key": "keyabdulahad1214",
         "expirydate": "31-07-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "b5dc921522a5b0b7",
-        "key": "keymubeen51214",
-        "expirydate": "30-08-2026",
         "Allowoffline": false
     },
 ]
